@@ -1,0 +1,9 @@
+
+streamlit
+fastapi
+uvicorn[standard]
+requests
+pandas
+plotly
+streamlit-autorefresh
+pydantic
